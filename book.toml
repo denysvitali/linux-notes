@@ -1,0 +1,6 @@
+[book]
+authors = ["Denys Vitali"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Linux Notes"
